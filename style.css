@@ -1,4 +1,8 @@
 body {
     font-size:20px; line-height:140%; 
-td {color: darkcyan;}
+    .all-effect {
+        font-size: 20px;
+        background-color: rgb(135, 222, 218);
+        background-size: cover;
+    }
 }
